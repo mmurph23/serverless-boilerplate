@@ -1,5 +1,7 @@
 {
-    "body": "{\"content\":\"Challenge example\",\"attachment\":\"hello.jpg\"}",
+    "pathParameters": {
+      "id": "054e42a0-03e1-11e8-89a3-fbbf90d999f4"
+    },
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "USER-SUB-1234"
